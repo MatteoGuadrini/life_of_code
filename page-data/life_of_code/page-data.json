@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-notes-js",
+    "path": "/life_of_code",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"id":"ff5f6f27-2254-51aa-872a-ea52ae0040e9","frontmatter":{"title":"Welcome to \"Life of Code\"","tags":["general"],"emoji":"👾","modified":"July 28, 2024","modifiedTimestamp":"2024-07-28T00:00:00.000Z"},"fields":{"slug":"/life_of_code/welcome"}}}]}},"pageContext":{"tags":[{"tag":"general","totalCount":1,"slug":"/general","path":"/life_of_code/tag/general"}],"basePath":"/life_of_code","hasUntagged":false}},
+    "staticQueryHashes": ["2566719832","2744905544","467212769"]}

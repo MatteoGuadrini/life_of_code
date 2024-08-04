@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-404-js",
     "path": "/404",
-    "result": {"pageContext":{"tags":[{"tag":"general","totalCount":1,"slug":"/general","path":"/tag/general"}],"hasUntagged":false,"basePath":"/"}},
+    "result": {"pageContext":{"tags":[{"tag":"general","totalCount":1,"slug":"/general","path":"/life_of_code/tag/general"}],"hasUntagged":false,"basePath":"/life_of_code"}},
     "staticQueryHashes": ["2566719832","2744905544","467212769"]}
