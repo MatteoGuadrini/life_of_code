@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-tag-page-js",
+    "path": "/tag/python",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"id":"c90c52bd-6dc9-55e5-83eb-c177e78db654","frontmatter":{"title":"Python Literals","tags":["python"],"emoji":"🐍","modified":null,"modifiedTimestamp":null},"fields":{"slug":"/python-literals"}}}]}},"pageContext":{"tag":"python","tags":[{"tag":"general","totalCount":1,"slug":"/general","path":"/tag/general"},{"tag":"python","totalCount":1,"slug":"/python","path":"/tag/python"}],"hasUntagged":false,"basePath":"/"}},
+    "staticQueryHashes": ["2566719832","2744905544","467212769"]}
