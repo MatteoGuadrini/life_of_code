@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-404-js",
     "path": "/404.html",
-    "result": {"pageContext":{"tags":[{"tag":"general","totalCount":1,"slug":"/general","path":"/tag/general"},{"tag":"python","totalCount":3,"slug":"/python","path":"/tag/python"}],"hasUntagged":false,"basePath":"/"}},
+    "result": {"pageContext":{"tags":[{"tag":"general","totalCount":1,"slug":"/general","path":"/tag/general"},{"tag":"python","totalCount":4,"slug":"/python","path":"/tag/python"}],"hasUntagged":false,"basePath":"/"}},
     "staticQueryHashes": ["2566719832","2744905544","467212769"]}
